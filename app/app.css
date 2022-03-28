@@ -1,0 +1,7 @@
+/* app css stylesheet */
+.bg-portada{
+    background-image: url("./src/images/forest.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
